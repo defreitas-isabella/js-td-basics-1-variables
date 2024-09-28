@@ -3,12 +3,21 @@
  */
 
 // 1. Initialisez une variable firstName à "John" et affichez sa valeur dans la console.
+const firstName = "John";
+console.log(firstName);
 
 // 2. Initialisez une variable lastName à "Smith" et une variable age à 28.
 
+const lastName = "Smith";
+const age =28;
+
 // 3. Initialisez une variable fullAge à true et affichez-la.
+const fullAge= true;
+console.log(fullAge);
 
 // 4. Déclarez une variable job et affichez sa valeur dans la console.
+const job ="enseignant"
+console.log(job);
 
 // 5. Affectez la valeur "Enseignant" à la variable job et affichez-la.
 
