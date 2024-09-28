@@ -18,6 +18,11 @@ const yearMark=now - ageMark;
 console.log (now - ageMark);
 // 3. Affichez l'année à laquelle nous serons dans deux ans, le double de l'année et le dixième de l'année.
 
+const year = 2024;
+const yearsLater= year + 2;
+const yearDouble = year * 2;
+const yearDivided = year / 10;
+
 // Opérateurs logiques
 
 // 4. … (Veuillez préciser votre question ou vos actions ici)

@@ -6,4 +6,9 @@ Affichez dans la console :
 
 // Votre prénom (chaîne)
 
+console.log("Isabella");
+
 // Votre âge (nombre)
+console.log(21 + "ans");
+
+// Lorsqu'on met des valeurs de types différentes, je dois mettre un +
