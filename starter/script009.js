@@ -23,3 +23,7 @@ const isMarried = false;
 
 
 // 5. Affichez une boîte de dialogue demandant "Quel est son nom de famille ?" pour permettre à l'utilisateur d'entrer le nom de famille de John. Stockez ce nom dans une variable lastName, puis affichez "Le nom de famille de John est … (le nom
+
+const lastName = prompt("Quel est son nom de famille ?") ;
+
+console.log(`Le nom de famille de John est ${lastName}`);

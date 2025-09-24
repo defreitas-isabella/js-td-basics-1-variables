@@ -4,6 +4,16 @@ Affichez dans la console :
 - votre âge (ce doit être un nombre)
 */
 
-// Votre prénom (chaîne)
+console.log("Isabella");
+console.log(22);
 
-// Votre âge (nombre)
+// Votre prénom (chaîne)
+const name = "Isabella";
+// Votre âge ( nombre)
+let age = 2025 - 2003;
+///
+const printString = name+' a '+age+' ans ';
+console.log(`${name} a ${age} ans`);
+console.log(printString)
+console.log(age)
+console.log(name)

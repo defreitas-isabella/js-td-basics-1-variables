@@ -25,3 +25,7 @@ console.log(`${ x * y }`);
 
 // Autres opérateurs
 // 4. Utilisez un opérateur de comparaison (comme >, <, ==, etc.) pour comparer les valeurs de deux variables et affichez le résultat.
+
+console.log(2 > 1)
+console.log(3 === 3);
+console.log( 3 < 2);

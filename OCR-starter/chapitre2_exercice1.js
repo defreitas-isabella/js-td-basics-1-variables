@@ -16,21 +16,31 @@
 
 // Initialisez la variable a à 2
 
+const a = 2;
+
 // Décrémentez a de 1
+console.log(a - 1);
 
 // Incrémentez a de 1
-
+console.log( a + 1)
 // Initialisez la variable b à 8
-
+ const b = 8;
 // Incrémentez b de 2
+console.log( b + 2);
 
 // Déclarez la constante c et calculez sa valeur
-
+let c;
+c = a + (b * b);
 // Déclarez la constante d et calculez sa valeur
+let d;
+d = a * b + b;
 
 // Déclarez la constante e et calculez sa valeur
-
+let f;
+f = a * b + b;
 // Déclarez la constante f et calculez sa valeur
+let g
+g = a * b + b;
 
 // Déclarez la constante g et calculez sa valeur
 
